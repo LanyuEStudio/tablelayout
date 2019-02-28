@@ -1,6 +1,10 @@
 ![](https://via.placeholder.com/600x80/FF0000/FFFFFF?text=Minified+version+for+java.swing)
 
 Minified version for [java.swing](https://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html) providing gradle configuration to get artifacts using [jitpack](https://jitpack.io/#lanyuestudio/tablelayout-min-gradle).
+
+Add it to your `build.gradle`
+[![](https://jitpack.io/v/lanyuestudio/tablelayout-min-gradle.svg)](https://jitpack.io/#lanyuestudio/tablelayout-min-gradle)
+
 Thanks to [Nathan Sweet](https://github.com/NathanSweet) for the code!
 
 `--END OF CHANGES--`
